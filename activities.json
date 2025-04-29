@@ -1,7 +1,12 @@
 {
     "runescape": {
-        "pretty_name": "RuneScape",
+        "pretty_name": "RuneScape 3",
         "application_name": "rs2client.exe",
         "publisher": "Jagex Ltd"
+    },
+    "roblox": {
+        "pretty_name": "Roblox",
+        "application_name": "RobloxPlayerBeta.exe",
+        "publisher": "Roblox Corporation"
     }
 }
